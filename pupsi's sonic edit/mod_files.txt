@@ -11,4 +11,3 @@ add Inspire/chara/+SonicEVRoot.ar.07
 add Inspire/chara/+SonicEVRoot.ar.08
 add Inspire/chara/+SonicEVRoot.arl
 add mod.ini
-add mod.json
